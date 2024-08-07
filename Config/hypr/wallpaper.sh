@@ -1,0 +1,2 @@
+waypaper --restore
+waypaper --restore
