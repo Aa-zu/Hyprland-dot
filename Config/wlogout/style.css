@@ -19,12 +19,12 @@ button {
 button:focus {
     background-size: 25%;
 	border: 0px;
-    background-color: rgb(80, 106, 70);
+    background-color: #4E8B8D;
 
 }
 
 button:hover {
-    background-color:rgb(80, 106, 70);
+    background-color: #4E8B8D;;
     color: #1e1e2e;
     background-size: 40%;
     border-radius: 60px; 
