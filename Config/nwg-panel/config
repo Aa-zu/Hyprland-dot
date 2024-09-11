@@ -115,7 +115,7 @@
       ]
     },
     "clock": {
-      "format": "%a, %d. %b  %H:%M:",
+      "format": "%a, %d. %b  %H:%M",
       "tooltip-text": "",
       "on-left-click": "",
       "on-middle-click": "",
